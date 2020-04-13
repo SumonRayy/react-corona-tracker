@@ -6,7 +6,7 @@ After clonning the Git-Repo run:
 ### `npm i` 
 to download & install all the Dependencies. <br /><br />
 I want to thanks to "JavaScript Mastery" for creating this amazing tutorial : <br />
-https://youtu.be/khJlrj3Y6Ls[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/khJlrj3Y6Ls/0.jpg)](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
+[![Tut-video](https://img.youtube.com/vi/khJlrj3Y6Ls/0.jpg)](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
